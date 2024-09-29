@@ -1,1 +1,2 @@
 This a file in three folder.
+Added a second line
